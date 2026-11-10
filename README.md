@@ -1,26 +1,23 @@
-## Bem-vindo(a) ao perfil Iron Oliveira 😁
+## Olá, eu sou o Iron Oliveira 👋
 
-<div>
-   <a href="https://github.com/oliveira-iron">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveira-iron&show_icons=true&?theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iron&layout=compact&langs_count=6&?theme=transparent"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">        
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
- 
-<br>
- 
-### Para mais conteúdo, minhas redes estão logo abaixo!
- 
-<div>
-  <a href = "ironoliveira50@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+Faço sites, sistemas e automações para pequenos negócios de **todo o Brasil**, e também topo projetos de fora.
+
+📍 Sou de **Natal e Parnamirim (RN)**: se você é daqui, dá pra conversar pessoalmente.
+
+### O que eu entrego
+- 🛒 **Sites de pedido**: cardápio, sacola, Pix e pedido direto no WhatsApp
+- 🤖 **Atendimento automático**: respostas para os clientes da loja a qualquer hora
+- ⚙️ **Automações e programas sob medida**: menos trabalho repetido no dia a dia
+
+### Trabalhos de exemplo
+| Projeto | O que mostra |
+|---|---|
+| [Açaí Maré](https://acai-mare-demo.netlify.app) | Site de açaiteria com "monte seu açaí", Pix e pedido pelo WhatsApp (loja fictícia) |
+
+### Ferramentas
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
