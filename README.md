@@ -7,7 +7,7 @@ Faço sites, sistemas e automações para pequenos negócios de **todo o Brasil*
 ### O que eu entrego
 - 🛒 **Sites de pedido**: cardápio, sacola, Pix e pedido direto no WhatsApp
 - 🤖 **Atendimento automático**: respostas para os clientes da loja a qualquer hora
-- ⚙️ **Automações e programas sob medida**: menos trabalho repetido no dia a dia
+- ⚙️ **Automações e programas sob medida**: programas que fazem sozinhos tarefas chatas, como planilha de pedidos, relatório de vendas e lembrete de cobrança
 
 ### Trabalhos de exemplo
 | Projeto | O que mostra |
